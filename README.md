@@ -8,14 +8,24 @@
 
 ### Overview
 
-In this seminar series we are going to look at different sub-areas of Human-Robot Interaction. At each scheduled seminar, you will be given an introduction into the topic by myself ()
+In this seminar series we are going to look at different sub-areas of Human-Robot Interaction. At each scheduled seminar, you will be given an introduction into the topic by myself and then we have three research papers, presented and discussed by the student, ie. you
 
 
 ### Schedule
 
 Find all suggested topics and papers below. Click on **paper number** (e.g. 2-2) to download the respective one.
 
-#### 26/02/16: Briefing
+#### 26/02/16: Briefing and Paper Selection
+
+You will be introduced to the overall topics and the assessment procedures in this seminar.
+
+Papers are assigned on a first come first serve basis. You can only pick one paper of the ones still remaining. Should you find yourself in a position where all papers are already taken, please contact marc@hanheide.net directly.
+
+*Note: paper selection is still disabled until the first session took place*
+
+* [choose **one** paper]() from the list to **PRESENT** at the scheduled session.
+* [choose **another** paper]() from the list to **DISCUSS** at the scheduled session.
+
 
 #### 11/03/16: Introduction, History and Overview of HRI
 
