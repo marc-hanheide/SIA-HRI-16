@@ -1,1 +1,69 @@
-# SIA-HRI-16
+# Seminars in Artificial Intelligence 2016
+
+![image](http://newsroom.unl.edu/announce/files/file51575.jpg)
+
+## Research and Challenges in Human-Robot Interaction
+
+### Overview
+
+
+
+### Schedule
+
+#### 26/02/16: Briefing
+
+#### 11/03/16: Introduction, History and Overview of HRI
+
+| Paper  | Presented by | Discussed by|
+|------- | ------------ | ----------- |
+| **1-1** Breazeal, C., 2004. Social interactions in HRI: the robot view. Systems, Man and Cybernetics, Part C, IEEE Transactions on, 34(2), pp.181–186. | ? | ? |
+| **1-2** Hebesberger, D. et al., 2015. What do staff in eldercare want a robot for ? An assessment of potential tasks and user requirements for a long-term deployment . In IROS Workshop on “Bridging user needs to deployed applications of service robots.” Hamburg. Available at: http://www.robot-era.eu/robotera/index.php?pagina=pagine_personalizzate&blocco=92&id=261. | ? | ? |
+| **1-3** Thrun, S., 2011. Toward a Framework for Human-Robot Interaction. Human–Computer Interaction. Available at: http://www.tandfonline.com/doi/abs/10.1080/07370024.2004.9667338 [Accessed February 23, 2016]. | ? | ? |
+
+---
+
+#### 01/04/16: Studying and Measuring in HRI
+
+| Paper  | Presented by | Discussed by|
+|------- | ------------ | ----------- |
+| **2-1** Bethel, C.L. & Murphy, R.R., 2010. Review of human studies methods in HRI and recommendations. International Journal of Social Robotics, 2(4), pp.347–359. Available at: http://www.cindybethel.com/publications/BethelCL-SORO.pdf. | ? | ? |
+| **2-2** Riek, L.D., 2012. Wizard of Oz Studies in HRI: A Systematic Review and New Reporting Guidelines. Journal of Human-Robot Interaction, 1(1). Available at: http://humanrobotinteraction.org/journal/index.php/HRI/article/view/9 [Accessed August 28, 2012]. | ? | ? |
+| **2-3** Weiss, A. et al., 2009. The USUS evaluation framework for human-robot interaction. In Adaptive and Emergent Behaviour and Complex Systems - Proceedings of the 23rd Convention of the Society for the Study of Artificial Intelligence and Simulation of Behaviour, AISB 2009. pp. 158–165. | ? | ? |
+
+---
+
+#### 15/04/16: Human-Robot Spatial Interaction
+
+| Paper  | Presented by | Discussed by|
+|------- | ------------ | ----------- |
+| **3-1** Lichtenthäler, C. et al., 2012. Increasing perceived value between human and robots - Measuring legibility in human aware navigation. In Proceedings of IEEE Workshop on Advanced Robotics and its Social Impacts, ARSO. pp. 89–94. | ? | ? |
+| **3-2** Lu, D. V, Hershberger, D. & Smart, W.D., 2014. Layered costmaps for context-sensitive navigation. In Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on. pp. 709–715. | ? | ? |
+| **3-3** Trautman, P. & Krause, A., 2010. Unfreezing the robot: Navigation in dense, interacting crowds. In Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on. IEEE, pp. 797–803. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5654369 [Accessed March 29, 2011]. | ? | ? |
+
+---
+
+#### 29/04/16: Social Signals
+
+| Paper  | Presented by | Discussed by|
+|------- | ------------ | ----------- |
+| **4-1** Fischer, K. et al., 2013. The impact of the contingency of robot feedback on HRI. In Proceedings of the 2013 International Conference on Collaboration Technologies and Systems, CTS 2013. pp. 210–217. | ? | ? |
+| **4-2** Green, A. & Hüttenrauch, H., 2006. Making a Case for Spatial Prompting in Human-Robot Communication. Proceedings of the fifth international conference on language resources and evaluation (LREC2006) workshop: Multimodal corpora: from multimodal behaviour theories to usable models, (May). | ? | ? |
+| **4-3** Moon, Aj. et al., 2013. Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts. International Journal of Human-Robot Interaction (IJHR), 2(3), pp.18–40. Available at: http://hri-journal.org/index.php/HRI/article/view/49. | ? | ? |
+
+---
+
+#### 13/05/16: Human-Robot Collaboration
+
+| Paper  | Presented by | Discussed by|
+|------- | ------------ | ----------- |
+| **5-1** St. Clair, A. & Mataric, M., 2011. Task coordination and assistive opportunity detection via social interaction in collaborative human-robot tasks. In Proc. Int. Conf. on Collaboration Technologies and Systems (CTS). IEEE, pp. 168–172. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5928682 [Accessed December 10, 2012]. | ? | ? |
+| **5-2** Conrad, P.R., Shah, J.A. & Williams, B.C., 2009. Flexible execution of plans with choice. Proceedings of ICAPS. | ? | ? |
+| **5-3** Sisbot, E.A. & Alami, R., 2012. A human-aware manipulation planner. IEEE Transactions on Robotics, 28(5), pp.1045–1057. | ? | ? |
+
+#### 27/05/16: Human-Robot Collaboration
+
+| Paper  | Presented by | Discussed by|
+|------- | ------------ | ----------- |
+| **6-1** Baxter, P. et al., 2011. Long-Term Human-Robot Interaction with Young Users. Memory, p.in press. | ? | ? |
+| **6-2** Kanda, T. et al., 2007. A two-month field trial in an elementary school for long-term human-robot interaction. IEEE Transactions on Robotics, 23(5), pp.962–971. | ? | ? |
+| **6-3** Sung, J., Christensen, H.I. & Grinter, R.E., 2009. Robots in the wild: Understanding long-term use. Human-Robot Interaction (HRI), 2009 4th ACM/IEEE International Conference on, pp.45–52. | ? | ? |
