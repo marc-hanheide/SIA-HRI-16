@@ -75,7 +75,7 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 | [**5-2**](PDF/Conrad, Shah, Williams - 2009 - Flexible execution of plans with choice.pdf) Conrad, P.R., Shah, J.A. & Williams, B.C., 2009. Flexible execution of plans with choice. Proceedings of ICAPS. | ? | ? |
 | [**5-3**](PDF/Sisbot, Alami - 2012 - A human-aware manipulation planner.pdf) Sisbot, E.A. & Alami, R., 2012. A human-aware manipulation planner. IEEE Transactions on Robotics, 28(5), pp.1045–1057. | ? | ? |
 
-#### 27/05/16: Human-Robot Collaboration
+#### 27/05/16: Long-term Interaction
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
