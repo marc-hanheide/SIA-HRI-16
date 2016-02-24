@@ -8,8 +8,17 @@
 
 ### Overview
 
-In this seminar series we are going to look at different sub-areas of Human-Robot Interaction. At each scheduled seminar, you will be given an introduction into the topic by myself and then we have three research papers, presented and discussed by the student, ie. you
+In this seminar series we are going to look at different sub-areas of Human-Robot Interaction. At each scheduled seminar, you will be given an introduction into the topic by myself and then we have three research papers, presented and discussed by the student, ie. you. In your presentation of the paper, make sure you cover
+1. the aims and objective of the paper
+2. the related work (identify in which way your paper is different to other approaches)
+3. the main findings presented in the paper
 
+In the discussion of the paper you should critically reflect on 
+1. the relevance of the research presented (is it widely applicable or very specific? how does it fit into the context of the research field?)
+2. the rigour of the work (are the results convincing? is the methodology sound?)
+3. the originality (is it a new idea? is the approach novel? is it the application of well-established techniques for a new application area?)
+
+This seminar series complements the [lecture on Human-Roboter Interaction](https://sites.google.com/a/dis.uniroma1.it/human-robot-interaction/)
 
 ### Schedule
 
@@ -29,6 +38,8 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 
 #### 11/03/16: Introduction, History and Overview of HRI
 
+In this session we look at general challenges of HRI, the overall aims and objectives of the field, and a little bit more in details where it originates from and what future challenges might be.
+
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**1-1**](PDF/Breazeal - 2004 - Social interactions in HRI the robot view.pdf) Breazeal, C., 2004. Social interactions in HRI: the robot view. Systems, Man and Cybernetics, Part C, IEEE Transactions on, 34(2), pp.181–186. | ? | ? |
@@ -38,6 +49,8 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 ---
 
 #### 01/04/16: Studying and Measuring in HRI
+
+The focus in this session is on methodology to study HRI. This is mostly about quantitative research methodologies, with links to research in sociology, human-computer interaction and psychology. We will look at different approaches to study specific aspects of HRI. 
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
@@ -49,6 +62,8 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 
 #### 15/04/16: Human-Robot Spatial Interaction
 
+This session focuses on mobile robots and how they should be moving among humans. We will look at implicit signalling from motion, social- or human-aware navigation approaches, balancing (perceived) safety and effectiveness of navigation.
+
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**3-1**](PDF/Lichtenthaeler et al. - 2012 - Increasing perceived value between human and robots - Measuring legibility in human aware navigation.pdf) Lichtenthäler, C. et al., 2012. Increasing perceived value between human and robots - Measuring legibility in human aware navigation. In Proceedings of IEEE Workshop on Advanced Robotics and its Social Impacts, ARSO. pp. 89–94. | ? | ? |
@@ -58,6 +73,8 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 ---
 
 #### 29/04/16: Social Signals
+
+This session will focus on the ways humans and robots can communicate with one another, focusing on implicit signalling.
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
@@ -69,6 +86,8 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 
 #### 13/05/16: Human-Robot Collaboration
 
+Here we are going to look into ways humans and robot can effectively collaborate in tasks, focusing on physical interaction and task coordination.
+
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**5-1**](PDF/St. Clair, Mataric - 2011 - Task coordination and assistive opportunity detection via social interaction in collaborative human-robot ta.pdf) St. Clair, A. & Mataric, M., 2011. Task coordination and assistive opportunity detection via social interaction in collaborative human-robot tasks. In Proc. Int. Conf. on Collaboration Technologies and Systems (CTS). IEEE, pp. 168–172. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5928682 [Accessed December 10, 2012]. | ? | ? |
@@ -76,6 +95,8 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 | [**5-3**](PDF/Sisbot, Alami - 2012 - A human-aware manipulation planner.pdf) Sisbot, E.A. & Alami, R., 2012. A human-aware manipulation planner. IEEE Transactions on Robotics, 28(5), pp.1045–1057. | ? | ? |
 
 #### 27/05/16: Long-term Interaction
+
+Long-term interaction poses a significant challenge for robots, not only in terms of robustness, but also in terms of habituation and adaptation effects. In this session we shall learn more about long-term challenges and applications for robots.
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
