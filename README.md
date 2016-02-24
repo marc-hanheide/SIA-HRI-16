@@ -62,7 +62,7 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**4-1**](PDF/Fischer et al. - 2013 - The impact of the contingency of robot feedback on HRI.pdf) Fischer, K. et al., 2013. The impact of the contingency of robot feedback on HRI. In Proceedings of the 2013 International Conference on Collaboration Technologies and Systems, CTS 2013. pp. 210–217. | ? | ? |
-| [**4-2**](PDF/Green, Huettenrauch - 2006 - Making a Case for Spatial Prompting in Human-Robot Communication.pdf) Green, A. & Hüttenrauch, H., 2006. Making a Case for Spatial Prompting in Human-Robot Communication. Proceedings of the fifth international conference on language resources and evaluation (LREC2006) workshop: Multimodal corpora: from multimodal behaviour theories to usable models, (May). | ? | ? |
+| [**4-2**](PDF/Lang et al. - 2009 - Feedback interpretation based on facial expressions in human-robot interaction.pdf) Lang, C. et al., 2009. Feedback interpretation based on facial expressions in human-robot interaction. In RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication. Toyama, Japan: IEEE, pp. 189–194. | ? | ? |
 | [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) Moon, Aj. et al., 2013. Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts. International Journal of Human-Robot Interaction (IJHR), 2(3), pp.18–40. Available at: http://hri-journal.org/index.php/HRI/article/view/49. | ? | ? |
 
 ---
