@@ -51,7 +51,7 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
-| [**3-1**](PDF/Lichtenthäler et al. - 2012 - Increasing perceived value between human and robots - Measuring legibility in human aware navigation.pdf) Lichtenthäler, C. et al., 2012. Increasing perceived value between human and robots - Measuring legibility in human aware navigation. In Proceedings of IEEE Workshop on Advanced Robotics and its Social Impacts, ARSO. pp. 89–94. | ? | ? |
+| [**3-1**](PDF/Lichtenthaeler et al. - 2012 - Increasing perceived value between human and robots - Measuring legibility in human aware navigation.pdf) Lichtenthäler, C. et al., 2012. Increasing perceived value between human and robots - Measuring legibility in human aware navigation. In Proceedings of IEEE Workshop on Advanced Robotics and its Social Impacts, ARSO. pp. 89–94. | ? | ? |
 | [**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) Lu, D. V, Hershberger, D. & Smart, W.D., 2014. Layered costmaps for context-sensitive navigation. In Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on. pp. 709–715. | ? | ? |
 | [**3-3**](PDF/Trautman, Krause - 2010 - Unfreezing the robot Navigation in dense, interacting crowds.pdf) Trautman, P. & Krause, A., 2010. Unfreezing the robot: Navigation in dense, interacting crowds. In Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on. IEEE, pp. 797–803. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5654369 [Accessed March 29, 2011]. | ? | ? |
 
@@ -62,7 +62,7 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**4-1**](PDF/Fischer et al. - 2013 - The impact of the contingency of robot feedback on HRI.pdf) Fischer, K. et al., 2013. The impact of the contingency of robot feedback on HRI. In Proceedings of the 2013 International Conference on Collaboration Technologies and Systems, CTS 2013. pp. 210–217. | ? | ? |
-| [**4-2**](PDF/Green, Hüttenrauch - 2006 - Making a Case for Spatial Prompting in Human-Robot Communication.pdf) Green, A. & Hüttenrauch, H., 2006. Making a Case for Spatial Prompting in Human-Robot Communication. Proceedings of the fifth international conference on language resources and evaluation (LREC2006) workshop: Multimodal corpora: from multimodal behaviour theories to usable models, (May). | ? | ? |
+| [**4-2**](PDF/Green, Huettenrauch - 2006 - Making a Case for Spatial Prompting in Human-Robot Communication.pdf) Green, A. & Hüttenrauch, H., 2006. Making a Case for Spatial Prompting in Human-Robot Communication. Proceedings of the fifth international conference on language resources and evaluation (LREC2006) workshop: Multimodal corpora: from multimodal behaviour theories to usable models, (May). | ? | ? |
 | [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) Moon, Aj. et al., 2013. Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts. International Journal of Human-Robot Interaction (IJHR), 2(3), pp.18–40. Available at: http://hri-journal.org/index.php/HRI/article/view/49. | ? | ? |
 
 ---
