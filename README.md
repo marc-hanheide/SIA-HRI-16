@@ -9,11 +9,13 @@
 ### Overview
 
 In this seminar series we are going to look at different sub-areas of Human-Robot Interaction. At each scheduled seminar, you will be given an introduction into the topic by myself and then we have three research papers, presented and discussed by the student, ie. you. In your presentation of the paper, make sure you cover
+
 1. the aims and objective of the paper
 2. the related work (identify in which way your paper is different to other approaches)
 3. the main findings presented in the paper
 
 In the discussion of the paper you should critically reflect on 
+
 1. the relevance of the research presented (is it widely applicable or very specific? how does it fit into the context of the research field?)
 2. the rigour of the work (are the results convincing? is the methodology sound?)
 3. the originality (is it a new idea? is the approach novel? is it the application of well-established techniques for a new application area?)
