@@ -46,9 +46,9 @@ In this session we look at general challenges of HRI, the overall aims and objec
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
-| [**1-1**](PDF/Breazeal - 2004 - Social interactions in HRI the robot view.pdf) Breazeal, C., 2004. Social interactions in HRI: the robot view. Systems, Man and Cybernetics, Part C, IEEE Transactions on, 34(2), pp.181–186. | ? | ? |
-| [**1-2**](PDF/Hebesberger et al. - 2015 - What do staff in eldercare want a robot for An assessment of potential tasks and user requirements for a lo.pdf) Hebesberger, D. et al., 2015. What do staff in eldercare want a robot for ? An assessment of potential tasks and user requirements for a long-term deployment . In IROS Workshop on “Bridging user needs to deployed applications of service robots.” Hamburg. Available at: http://www.robot-era.eu/robotera/index.php?pagina=pagine_personalizzate&blocco=92&id=261. | ? | ? |
-| [**1-3**](PDF/Thrun - 2011 - Toward a Framework for Human-Robot Interaction.pdf) Thrun, S., 2011. Toward a Framework for Human-Robot Interaction. Human–Computer Interaction. Available at: http://www.tandfonline.com/doi/abs/10.1080/07370024.2004.9667338 [Accessed February 23, 2016]. | ? | ? |
+| [**1-1**](PDF/Breazeal - 2004 - Social interactions in HRI the robot view.pdf) Breazeal, C., 2004. Social interactions in HRI: the robot view. Systems, Man and Cybernetics, Part C, IEEE Transactions on, 34(2), pp.181–186. | Andrea Gigli	 | ? |
+| [**1-2**](PDF/Hebesberger et al. - 2015 - What do staff in eldercare want a robot for An assessment of potential tasks and user requirements for a lo.pdf) Hebesberger, D. et al., 2015. What do staff in eldercare want a robot for ? An assessment of potential tasks and user requirements for a long-term deployment . In IROS Workshop on “Bridging user needs to deployed applications of service robots.” Hamburg. Available at: http://www.robot-era.eu/robotera/index.php?pagina=pagine_personalizzate&blocco=92&id=261. | SALVATORE GIGLIO	 | ? |
+| [**1-3**](PDF/Thrun - 2011 - Toward a Framework for Human-Robot Interaction.pdf) Thrun, S., 2011. Toward a Framework for Human-Robot Interaction. Human–Computer Interaction. Available at: http://www.tandfonline.com/doi/abs/10.1080/07370024.2004.9667338 [Accessed February 23, 2016]. | Maurizio Maisto | ? |
 
 ---
 
@@ -58,9 +58,9 @@ The focus in this session is on methodology to study HRI. This is mostly about q
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
-| [**2-1**](PDF/Bethel, Murphy - 2010 - Review of human studies methods in HRI and recommendations.pdf) Bethel, C.L. & Murphy, R.R., 2010. Review of human studies methods in HRI and recommendations. International Journal of Social Robotics, 2(4), pp.347–359. Available at: http://www.cindybethel.com/publications/BethelCL-SORO.pdf. | ? | ? |
-| [**2-2**](PDF/Riek - 2012 - Wizard of Oz Studies in HRI A Systematic Review and New Reporting Guidelines.pdf) Riek, L.D., 2012. Wizard of Oz Studies in HRI: A Systematic Review and New Reporting Guidelines. Journal of Human-Robot Interaction, 1(1). Available at: http://humanrobotinteraction.org/journal/index.php/HRI/article/view/9 [Accessed August 28, 2012]. | ? | ? |
-| [**2-3**](PDF/Weiss et al. - 2009 - The USUS evaluation framework for human-robot interaction.pdf) Weiss, A. et al., 2009. The USUS evaluation framework for human-robot interaction. In Adaptive and Emergent Behaviour and Complex Systems - Proceedings of the 23rd Convention of the Society for the Study of Artificial Intelligence and Simulation of Behaviour, AISB 2009. pp. 158–165. | ? | ? |
+| [**2-1**](PDF/Bethel, Murphy - 2010 - Review of human studies methods in HRI and recommendations.pdf) Bethel, C.L. & Murphy, R.R., 2010. Review of human studies methods in HRI and recommendations. International Journal of Social Robotics, 2(4), pp.347–359. Available at: http://www.cindybethel.com/publications/BethelCL-SORO.pdf. | Matteo Bordoni | ? |
+| [**2-2**](PDF/Riek - 2012 - Wizard of Oz Studies in HRI A Systematic Review and New Reporting Guidelines.pdf) Riek, L.D., 2012. Wizard of Oz Studies in HRI: A Systematic Review and New Reporting Guidelines. Journal of Human-Robot Interaction, 1(1). Available at: http://humanrobotinteraction.org/journal/index.php/HRI/article/view/9 [Accessed August 28, 2012]. | Daniele Evangelista | ? |
+| [**2-3**](PDF/Weiss et al. - 2009 - The USUS evaluation framework for human-robot interaction.pdf) Weiss, A. et al., 2009. The USUS evaluation framework for human-robot interaction. In Adaptive and Emergent Behaviour and Complex Systems - Proceedings of the 23rd Convention of the Society for the Study of Artificial Intelligence and Simulation of Behaviour, AISB 2009. pp. 158–165. | Harold Agudelo | ? |
 
 ---
 
@@ -72,7 +72,7 @@ This session focuses on mobile robots and how they should be moving among humans
 |------- | ------------ | ----------- |
 | [**3-1**](PDF/Lichtenthaeler et al. - 2012 - Increasing perceived value between human and robots - Measuring legibility in human aware navigation.pdf) Lichtenthäler, C. et al., 2012. Increasing perceived value between human and robots - Measuring legibility in human aware navigation. In Proceedings of IEEE Workshop on Advanced Robotics and its Social Impacts, ARSO. pp. 89–94. | ? | ? |
 | [**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) Lu, D. V, Hershberger, D. & Smart, W.D., 2014. Layered costmaps for context-sensitive navigation. In Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on. pp. 709–715. | ? | ? |
-| [**3-3**](PDF/Trautman, Krause - 2010 - Unfreezing the robot Navigation in dense, interacting crowds.pdf) Trautman, P. & Krause, A., 2010. Unfreezing the robot: Navigation in dense, interacting crowds. In Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on. IEEE, pp. 797–803. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5654369 [Accessed March 29, 2011]. | ? | ? |
+| [**3-3**](PDF/Trautman, Krause - 2010 - Unfreezing the robot Navigation in dense, interacting crowds.pdf) Trautman, P. & Krause, A., 2010. Unfreezing the robot: Navigation in dense, interacting crowds. In Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on. IEEE, pp. 797–803. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5654369 [Accessed March 29, 2011]. | Francesco Sapio | ? |
 
 ---
 
@@ -104,6 +104,6 @@ Long-term interaction poses a significant challenge for robots, not only in term
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
-| [**6-1**](PDF/Baxter et al. - 2011 - Long-Term Human-Robot Interaction with Young Users.pdf) Baxter, P. et al., 2011. Long-Term Human-Robot Interaction with Young Users. Memory, p.in press. | ? | ? |
-| [**6-2**](PDF/Kanda et al. - 2007 - A two-month field trial in an elementary school for long-term human-robot interaction.pdf) Kanda, T. et al., 2007. A two-month field trial in an elementary school for long-term human-robot interaction. IEEE Transactions on Robotics, 23(5), pp.962–971. | ? | ? |
-| [**6-3**](PDF/Sung, Christensen, Grinter - 2009 - Robots in the wild Understanding long-term use.pdf) Sung, J., Christensen, H.I. & Grinter, R.E., 2009. Robots in the wild: Understanding long-term use. Human-Robot Interaction (HRI), 2009 4th ACM/IEEE International Conference on, pp.45–52. | ? | ? |
+| [**6-1**](PDF/Baxter et al. - 2011 - Long-Term Human-Robot Interaction with Young Users.pdf) Baxter, P. et al., 2011. Long-Term Human-Robot Interaction with Young Users. Memory, p.in press. | Sina Baharlou | ? |
+| [**6-2**](PDF/Kanda et al. - 2007 - A two-month field trial in an elementary school for long-term human-robot interaction.pdf) Kanda, T. et al., 2007. A two-month field trial in an elementary school for long-term human-robot interaction. IEEE Transactions on Robotics, 23(5), pp.962–971. | Massimiliano Mancini | ? |
+| [**6-3**](PDF/Sung, Christensen, Grinter - 2009 - Robots in the wild Understanding long-term use.pdf) Sung, J., Christensen, H.I. & Grinter, R.E., 2009. Robots in the wild: Understanding long-term use. Human-Robot Interaction (HRI), 2009 4th ACM/IEEE International Conference on, pp.45–52. | Irvin Aloise | ? |
