@@ -82,8 +82,8 @@ This session will focus on the ways humans and robots can communicate with one a
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
-| [**4-1**](PDF/Fischer et al. - 2013 - The impact of the contingency of robot feedback on HRI.pdf) Fischer, K. et al., 2013. The impact of the contingency of robot feedback on HRI. In Proceedings of the 2013 International Conference on Collaboration Technologies and Systems, CTS 2013. pp. 210–217. | ? | Irvin Aloise |
-| [**4-2**](PDF/Lang et al. - 2009 - Feedback interpretation based on facial expressions in human-robot interaction.pdf) Lang, C. et al., 2009. Feedback interpretation based on facial expressions in human-robot interaction. In RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication. Toyama, Japan: IEEE, pp. 189–194. | ? | Harold Agudelo |
+| [**4-1**](PDF/Fischer et al. - 2013 - The impact of the contingency of robot feedback on HRI.pdf) Fischer, K. et al., 2013. The impact of the contingency of robot feedback on HRI. In Proceedings of the 2013 International Conference on Collaboration Technologies and Systems, CTS 2013. pp. 210–217. | Mirco Colosi | Irvin Aloise |
+| [**4-2**](PDF/Lang et al. - 2009 - Feedback interpretation based on facial expressions in human-robot interaction.pdf) Lang, C. et al., 2009. Feedback interpretation based on facial expressions in human-robot interaction. In RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication. Toyama, Japan: IEEE, pp. 189–194. | Wilson Villa | Harold Agudelo |
 | [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) Moon, Aj. et al., 2013. Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts. International Journal of Human-Robot Interaction (IJHR), 2(3), pp.18–40. Available at: http://hri-journal.org/index.php/HRI/article/view/49. | ? | ? |
 
 ---
