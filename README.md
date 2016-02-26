@@ -30,10 +30,9 @@ You will be introduced to the overall topics and the assessment procedures in th
 
 Papers are assigned on a first come first serve basis. You can only pick one paper of the ones still remaining. Should you find yourself in a position where all papers are already taken, please contact marc@hanheide.net directly.
 
-*Note: paper selection is still disabled until the first session took place*
 
-* [choose **one** paper]() from the list to **PRESENT** at the scheduled session.
-* [choose **another** paper]() from the list to **DISCUSS** at the scheduled session.
+* [choose **one** paper](https://doodle.com/poll/wgaucz9xaprxuqc8) from the list to **PRESENT** at the scheduled session.
+* [choose **another** paper](https://doodle.com/poll/wkkmzc2t3yrsd8sq) from the list to **DISCUSS** at the scheduled session.
 
 
 #### 11/03/16: Introduction, History and Overview of HRI
