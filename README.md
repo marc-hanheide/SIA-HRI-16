@@ -20,6 +20,11 @@ In the discussion of the paper you should critically reflect on
 
 This seminar series complements the [lecture on Human-Roboter Interaction](https://sites.google.com/a/dis.uniroma1.it/human-robot-interaction/)
 
+### Meetings for advice
+
+My office is B114. Please [book an appointment](https://doodle.com/mhanheide) (usually half an hour should be enough) when you want to see me.
+
+
 ### Schedule
 
 Find all suggested topics and papers below. Click on **paper number** (e.g. 2-2) to download the respective one.
