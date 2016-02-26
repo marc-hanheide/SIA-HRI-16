@@ -84,7 +84,7 @@ This session will focus on the ways humans and robots can communicate with one a
 
 ---
 
-#### 13/05/16: Human-Robot Collaboration
+#### 06/05/16: Human-Robot Collaboration
 
 Here we are going to look into ways humans and robot can effectively collaborate in tasks, focusing on physical interaction and task coordination.
 
@@ -94,7 +94,7 @@ Here we are going to look into ways humans and robot can effectively collaborate
 | [**5-2**](PDF/Conrad, Shah, Williams - 2009 - Flexible execution of plans with choice.pdf) Conrad, P.R., Shah, J.A. & Williams, B.C., 2009. Flexible execution of plans with choice. Proceedings of ICAPS. | ? | ? |
 | [**5-3**](PDF/Sisbot, Alami - 2012 - A human-aware manipulation planner.pdf) Sisbot, E.A. & Alami, R., 2012. A human-aware manipulation planner. IEEE Transactions on Robotics, 28(5), pp.1045–1057. | ? | ? |
 
-#### 27/05/16: Long-term Interaction
+#### 13/05/16: Long-term Interaction
 
 Long-term interaction poses a significant challenge for robots, not only in terms of robustness, but also in terms of habituation and adaptation effects. In this session we shall learn more about long-term challenges and applications for robots.
 
