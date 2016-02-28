@@ -50,7 +50,7 @@ In this session we look at general challenges of HRI, the overall aims and objec
 |------- | ------------ | ----------- |
 | [**1-1**](PDF/Breazeal - 2004 - Social interactions in HRI the robot view.pdf) Breazeal, C., 2004. Social interactions in HRI: the robot view. Systems, Man and Cybernetics, Part C, IEEE Transactions on, 34(2), pp.181–186. | Andrea Gigli	 | Matteo Bordoni  |
 | [**1-2**](PDF/Hebesberger et al. - 2015 - What do staff in eldercare want a robot for An assessment of potential tasks and user requirements for a lo.pdf) Hebesberger, D. et al., 2015. What do staff in eldercare want a robot for ? An assessment of potential tasks and user requirements for a long-term deployment . In IROS Workshop on “Bridging user needs to deployed applications of service robots.” Hamburg. Available at: http://www.robot-era.eu/robotera/index.php?pagina=pagine_personalizzate&blocco=92&id=261. | SALVATORE GIGLIO	 | Francesco Sapio |
-| [**1-3**](PDF/Thrun - 2011 - Toward a Framework for Human-Robot Interaction.pdf) Thrun, S., 2011. Toward a Framework for Human-Robot Interaction. Human–Computer Interaction. Available at: http://www.tandfonline.com/doi/abs/10.1080/07370024.2004.9667338 [Accessed February 23, 2016]. | Maurizio Maisto | ? |
+| [**1-3**](PDF/Thrun - 2011 - Toward a Framework for Human-Robot Interaction.pdf) Thrun, S., 2011. Toward a Framework for Human-Robot Interaction. Human–Computer Interaction. Available at: http://www.tandfonline.com/doi/abs/10.1080/07370024.2004.9667338 [Accessed February 23, 2016]. | Maurizio Maisto | Lorenzo Steccanella |
 
 ---
 
@@ -96,7 +96,7 @@ Here we are going to look into ways humans and robot can effectively collaborate
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
-| [**5-1**](PDF/St. Clair, Mataric - 2011 - Task coordination and assistive opportunity detection via social interaction in collaborative human-robot ta.pdf) St. Clair, A. & Mataric, M., 2011. Task coordination and assistive opportunity detection via social interaction in collaborative human-robot tasks. In Proc. Int. Conf. on Collaboration Technologies and Systems (CTS). IEEE, pp. 168–172. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5928682 [Accessed December 10, 2012]. |  Gabriele Angeletti | ? |
+| [**5-1**](PDF/St. Clair, Mataric - 2011 - Task coordination and assistive opportunity detection via social interaction in collaborative human-robot ta.pdf) St. Clair, A. & Mataric, M., 2011. Task coordination and assistive opportunity detection via social interaction in collaborative human-robot tasks. In Proc. Int. Conf. on Collaboration Technologies and Systems (CTS). IEEE, pp. 168–172. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5928682 [Accessed December 10, 2012]. |  Gabriele Angeletti | riccardo rinaldi |
 | [**5-2**](PDF/Conrad, Shah, Williams - 2009 - Flexible execution of plans with choice.pdf) Conrad, P.R., Shah, J.A. & Williams, B.C., 2009. Flexible execution of plans with choice. Proceedings of ICAPS. | ? | ? |
 | [**5-3**](PDF/Sisbot, Alami - 2012 - A human-aware manipulation planner.pdf) Sisbot, E.A. & Alami, R., 2012. A human-aware manipulation planner. IEEE Transactions on Robotics, 28(5), pp.1045–1057. | ? | ? |
 
