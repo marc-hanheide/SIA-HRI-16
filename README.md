@@ -86,7 +86,7 @@ This session will focus on the ways humans and robots can communicate with one a
 |------- | ------------ | ----------- |
 | [**4-1**](PDF/Fischer et al. - 2013 - The impact of the contingency of robot feedback on HRI.pdf) Fischer, K. et al., 2013. The impact of the contingency of robot feedback on HRI. In Proceedings of the 2013 International Conference on Collaboration Technologies and Systems, CTS 2013. pp. 210–217. | Mirco Colosi | Irvin Aloise |
 | [**4-2**](PDF/Lang et al. - 2009 - Feedback interpretation based on facial expressions in human-robot interaction.pdf) Lang, C. et al., 2009. Feedback interpretation based on facial expressions in human-robot interaction. In RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication. Toyama, Japan: IEEE, pp. 189–194. | Wilson Villa | Harold Agudelo |
-| [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) Moon, Aj. et al., 2013. Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts. International Journal of Human-Robot Interaction (IJHR), 2(3), pp.18–40. Available at: http://hri-journal.org/index.php/HRI/article/view/49. | ? |  Gabriele Angeletti |
+| [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) Moon, Aj. et al., 2013. Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts. International Journal of Human-Robot Interaction (IJHR), 2(3), pp.18–40. Available at: http://hri-journal.org/index.php/HRI/article/view/49. | Ahmad irjoob |  Gabriele Angeletti |
 
 ---
 
@@ -98,7 +98,7 @@ Here we are going to look into ways humans and robot can effectively collaborate
 |------- | ------------ | ----------- |
 | [**5-1**](PDF/St. Clair, Mataric - 2011 - Task coordination and assistive opportunity detection via social interaction in collaborative human-robot ta.pdf) St. Clair, A. & Mataric, M., 2011. Task coordination and assistive opportunity detection via social interaction in collaborative human-robot tasks. In Proc. Int. Conf. on Collaboration Technologies and Systems (CTS). IEEE, pp. 168–172. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5928682 [Accessed December 10, 2012]. |  Gabriele Angeletti | riccardo rinaldi |
 | [**5-2**](PDF/Conrad, Shah, Williams - 2009 - Flexible execution of plans with choice.pdf) Conrad, P.R., Shah, J.A. & Williams, B.C., 2009. Flexible execution of plans with choice. Proceedings of ICAPS. | ? | ? |
-| [**5-3**](PDF/Sisbot, Alami - 2012 - A human-aware manipulation planner.pdf) Sisbot, E.A. & Alami, R., 2012. A human-aware manipulation planner. IEEE Transactions on Robotics, 28(5), pp.1045–1057. | Paolo Russo	 | ? |
+| [**5-3**](PDF/Sisbot, Alami - 2012 - A human-aware manipulation planner.pdf) Sisbot, E.A. & Alami, R., 2012. A human-aware manipulation planner. IEEE Transactions on Robotics, 28(5), pp.1045–1057. | Paolo Russo	 | Ahmad Irjoob |
 
 #### 13/05/16: Long-term Interaction
 
