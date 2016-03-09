@@ -85,8 +85,8 @@ Here we are going to look into ways humans and robot can effectively collaborate
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
+| [**4-2**](PDF/Lang et al. - 2009 - Feedback interpretation based on facial expressions in human-robot interaction.pdf) (*moved here due to unavailability of presenter next week*) Lang, C. et al., 2009. Feedback interpretation based on facial expressions in human-robot interaction. In RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication. Toyama, Japan: IEEE, pp. 189–194. | Wilson Villa | Harold Agudelo |
 | [**5-1**](PDF/St. Clair, Mataric - 2011 - Task coordination and assistive opportunity detection via social interaction in collaborative human-robot ta.pdf) St. Clair, A. & Mataric, M., 2011. Task coordination and assistive opportunity detection via social interaction in collaborative human-robot tasks. In Proc. Int. Conf. on Collaboration Technologies and Systems (CTS). IEEE, pp. 168–172. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5928682 [Accessed December 10, 2012]. |  Gabriele Angeletti | riccardo rinaldi |
-| [**5-2**](PDF/Conrad, Shah, Williams - 2009 - Flexible execution of plans with choice.pdf) Conrad, P.R., Shah, J.A. & Williams, B.C., 2009. Flexible execution of plans with choice. Proceedings of ICAPS. | ? | ? |
 | [**5-3**](PDF/Sisbot, Alami - 2012 - A human-aware manipulation planner.pdf) Sisbot, E.A. & Alami, R., 2012. A human-aware manipulation planner. IEEE Transactions on Robotics, 28(5), pp.1045–1057. | Paolo Russo	 | Ahmad Irjoob |
 
 ---
@@ -98,8 +98,8 @@ This session will focus on the ways humans and robots can communicate with one a
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**4-1**](PDF/Fischer et al. - 2013 - The impact of the contingency of robot feedback on HRI.pdf) Fischer, K. et al., 2013. The impact of the contingency of robot feedback on HRI. In Proceedings of the 2013 International Conference on Collaboration Technologies and Systems, CTS 2013. pp. 210–217. | Mirco Colosi | Irvin Aloise |
-| [**4-2**](PDF/Lang et al. - 2009 - Feedback interpretation based on facial expressions in human-robot interaction.pdf) Lang, C. et al., 2009. Feedback interpretation based on facial expressions in human-robot interaction. In RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication. Toyama, Japan: IEEE, pp. 189–194. | Wilson Villa | Harold Agudelo |
 | [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) Moon, Aj. et al., 2013. Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts. International Journal of Human-Robot Interaction (IJHR), 2(3), pp.18–40. Available at: http://hri-journal.org/index.php/HRI/article/view/49. | Ahmad irjoob |  Gabriele Angeletti |
+| There is a free slot here as one presentation had to be moved | | |
 
 ---
 
@@ -112,3 +112,10 @@ Long-term interaction poses a significant challenge for robots, not only in term
 | [**6-1**](PDF/Baxter et al. - 2011 - Long-Term Human-Robot Interaction with Young Users.pdf) Baxter, P. et al., 2011. Long-Term Human-Robot Interaction with Young Users. Memory, p.in press. | Sina Baharlou | SALVATORE GIGLIO |
 | [**6-2**](PDF/Kanda et al. - 2007 - A two-month field trial in an elementary school for long-term human-robot interaction.pdf) Kanda, T. et al., 2007. A two-month field trial in an elementary school for long-term human-robot interaction. IEEE Transactions on Robotics, 23(5), pp.962–971. | Massimiliano Mancini | Paolo Russo	 |
 | [**6-3**](PDF/Sung, Christensen, Grinter - 2009 - Robots in the wild Understanding long-term use.pdf) Sung, J., Christensen, H.I. & Grinter, R.E., 2009. Robots in the wild: Understanding long-term use. Human-Robot Interaction (HRI), 2009 4th ACM/IEEE International Conference on, pp.45–52. | Irvin Aloise | Mirco Colosi |
+
+
+#### Extra papers
+
+| Paper  | Presented by | Discussed by|
+|------- | ------------ | ----------- |
+| [**5-2**](PDF/Conrad, Shah, Williams - 2009 - Flexible execution of plans with choice.pdf) Conrad, P.R., Shah, J.A. & Williams, B.C., 2009. Flexible execution of plans with choice. Proceedings of ICAPS. | ? | ? |
