@@ -45,6 +45,7 @@ Papers are assigned on a first come first serve basis. You can only pick one pap
 #### 11/03/16: Introduction, History and Overview of HRI
 
 In this session we look at general challenges of HRI, the overall aims and objectives of the field, and a little bit more in details where it originates from and what future challenges might be.
+[Slides or Marc's presentation](https://github.com/marc-hanheide/SIA-HRI-16/raw/master/Slides/LaSapienza%20SIA%20HRI%201.pdf) are available.
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
