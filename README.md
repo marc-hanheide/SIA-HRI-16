@@ -58,6 +58,7 @@ In this session we look at general challenges of HRI, the overall aims and objec
 #### 01/04/16: Studying and Measuring in HRI
 
 The focus in this session is on methodology to study HRI. This is mostly about quantitative research methodologies, with links to research in sociology, human-computer interaction and psychology. We will look at different approaches to study specific aspects of HRI. 
+[Slides of Marc's presentation](https://github.com/marc-hanheide/SIA-HRI-16/raw/master/Slides/LaSapienza%20SIA%20HRI%202.pdf) are available.
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
