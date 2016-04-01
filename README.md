@@ -58,13 +58,15 @@ In this session we look at general challenges of HRI, the overall aims and objec
 #### 01/04/16: Studying and Measuring in HRI
 
 The focus in this session is on methodology to study HRI. This is mostly about quantitative research methodologies, with links to research in sociology, human-computer interaction and psychology. We will look at different approaches to study specific aspects of HRI. 
-[Slides of Marc's presentation](https://github.com/marc-hanheide/SIA-HRI-16/raw/master/Slides/LaSapienza%20SIA%20HRI%202.pdf) are available.
+[Slides of Marc's presentation](https://github.com/marc-hanheide/SIA-HRI-16/raw/master/Slides/LaSapienza%20SIA%20HRI%202.pdf) are available. Note, the it also contains a lot of material on quantitative analysis that we didn't talk about in the seminar itself, so it may well be worth flipping through the slides for some more background.
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**2-1**](PDF/Bethel, Murphy - 2010 - Review of human studies methods in HRI and recommendations.pdf) Bethel, C.L. & Murphy, R.R., 2010. Review of human studies methods in HRI and recommendations. International Journal of Social Robotics, 2(4), pp.347–359. Available at: http://www.cindybethel.com/publications/BethelCL-SORO.pdf. | Matteo Bordoni | Sina Baharlou |
 | [**2-2**](PDF/Riek - 2012 - Wizard of Oz Studies in HRI A Systematic Review and New Reporting Guidelines.pdf) Riek, L.D., 2012. Wizard of Oz Studies in HRI: A Systematic Review and New Reporting Guidelines. Journal of Human-Robot Interaction, 1(1). Available at: http://humanrobotinteraction.org/journal/index.php/HRI/article/view/9 [Accessed August 28, 2012]. | Daniele Evangelista | Maurizio Maisto |
 | [**2-3**](PDF/Weiss et al. - 2009 - The USUS evaluation framework for human-robot interaction.pdf) Weiss, A. et al., 2009. The USUS evaluation framework for human-robot interaction. In Adaptive and Emergent Behaviour and Complex Systems - Proceedings of the 23rd Convention of the Society for the Study of Artificial Intelligence and Simulation of Behaviour, AISB 2009. pp. 158–165. | Harold Agudelo | Andrea Gigli |
+
+In addition to the paper [**2-2**](PDF/Riek - 2012 - Wizard of Oz Studies in HRI A Systematic Review and New Reporting Guidelines.pdf), there is a useful online calculator to determine the sample size required for statistical tests, based on some assumptions on effect size and study design: http://powerandsamplesize.com/
 
 ---
 
