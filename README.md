@@ -74,6 +74,15 @@ In addition to the paper [**2-2**](PDF/Riek - 2012 - Wizard of Oz Studies in HRI
 
 This session focuses on mobile robots and how they should be moving among humans. We will look at implicit signalling from motion, social- or human-aware navigation approaches, balancing (perceived) safety and effectiveness of navigation.
 
+Presentations will proceed in the following order:
+
+1. [Proxemics and communicating by moving](Slides/LaSapienza%20SIA%20HRI%203.pdf) - Marc Hanheide
+2. [**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) - Riccardo Rinaldi
+3. [**3-0**](PDF/Dondrup et al. - 2015 - Real-time multisensor people tracking for human-robot spatial interaction.pdf) - Ali Youssef
+4. [Qualitative Human-Robot Spatial Interaction](Slides/LaSapienza%20SIA%20HRI%203.pdf) - Marc Hanheide
+5. [**3-1**](PDF/Lichtenthaeler et al. - 2012 - Increasing perceived value between human and robots - Measuring legibility in human aware navigation.pdf) - Lorenzo Steccanella
+6. [**3-3**](PDF/Trautman, Krause - 2010 - Unfreezing the robot Navigation in dense, interacting crowds.pdf) - Francesco Sapio
+
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**3-0**](PDF/Dondrup et al. - 2015 - Real-time multisensor people tracking for human-robot spatial interaction.pdf) Dondrup, C. et al., 2015. Real-time multisensor people tracking for human-robot spatial interaction. In Workshop on Machine Learning for Social Robotics at International Conference on Robotics and Automation (ICRA). ICRA / IEEE. Available at: http://eprints.lincoln.ac.uk/17545/1/dondrup.pdf [Accessed February 1, 2016]. |Ali Youssef | ? |
