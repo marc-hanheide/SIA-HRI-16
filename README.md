@@ -77,7 +77,7 @@ This session focuses on mobile robots and how they should be moving among humans
 Presentations will proceed in the following order:
 
 1. [Proxemics and communicating by moving](Slides/LaSapienza%20SIA%20HRI%203.pdf) - Marc Hanheide
-2. [**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) - Riccardo Rinaldi
+2. ~~[**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) - Riccardo Rinaldi~~ (postponed due to illness of presenter)
 3. [**3-0**](PDF/Dondrup et al. - 2015 - Real-time multisensor people tracking for human-robot spatial interaction.pdf) - Ali Youssef
 4. [Qualitative Human-Robot Spatial Interaction](Slides/LaSapienza%20SIA%20HRI%203.pdf) - Marc Hanheide
 5. [**3-1**](PDF/Lichtenthaeler et al. - 2012 - Increasing perceived value between human and robots - Measuring legibility in human aware navigation.pdf) - Lorenzo Steccanella
@@ -87,20 +87,19 @@ Presentations will proceed in the following order:
 |------- | ------------ | ----------- |
 | [**3-0**](PDF/Dondrup et al. - 2015 - Real-time multisensor people tracking for human-robot spatial interaction.pdf) Dondrup, C. et al., 2015. Real-time multisensor people tracking for human-robot spatial interaction. In Workshop on Machine Learning for Social Robotics at International Conference on Robotics and Automation (ICRA). ICRA / IEEE. Available at: http://eprints.lincoln.ac.uk/17545/1/dondrup.pdf [Accessed February 1, 2016]. |Ali Youssef | ? |
 | [**3-1**](PDF/Lichtenthaeler et al. - 2012 - Increasing perceived value between human and robots - Measuring legibility in human aware navigation.pdf) Lichtenthäler, C. et al., 2012. Increasing perceived value between human and robots - Measuring legibility in human aware navigation. In Proceedings of IEEE Workshop on Advanced Robotics and its Social Impacts, ARSO. pp. 89–94. | Lorenzo Steccanella | Wilson Villa |
-| [**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) Lu, D. V, Hershberger, D. & Smart, W.D., 2014. Layered costmaps for context-sensitive navigation. In Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on. pp. 709–715. |  riccardo rinaldi | Daniele Evangelista |
 | [**3-3**](PDF/Trautman, Krause - 2010 - Unfreezing the robot Navigation in dense, interacting crowds.pdf) Trautman, P. & Krause, A., 2010. Unfreezing the robot: Navigation in dense, interacting crowds. In Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on. IEEE, pp. 797–803. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5654369 [Accessed March 29, 2011]. | Francesco Sapio | Massimiliano Mancini |
 
 ---
 
-#### 22/04/16: Human-Robot Collaboration
+#### 22/04/16: Human-Robot Collaboration (and some more mixed things)
 
-Here we are going to look into ways humans and robot can effectively collaborate in tasks, focusing on physical interaction and task coordination.
+Here we are going to look into ways humans and robot can effectively collaborate in tasks, focusing on physical interaction and task coordination. In addition,  we have one paper that leads over to next week.
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
-| [**4-2**](PDF/Lang et al. - 2009 - Feedback interpretation based on facial expressions in human-robot interaction.pdf) (*moved here due to unavailability of presenter next week*) Lang, C. et al., 2009. Feedback interpretation based on facial expressions in human-robot interaction. In RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication. Toyama, Japan: IEEE, pp. 189–194. | Wilson Villa | Harold Agudelo |
 | [**5-1**](PDF/St. Clair, Mataric - 2011 - Task coordination and assistive opportunity detection via social interaction in collaborative human-robot ta.pdf) St. Clair, A. & Mataric, M., 2011. Task coordination and assistive opportunity detection via social interaction in collaborative human-robot tasks. In Proc. Int. Conf. on Collaboration Technologies and Systems (CTS). IEEE, pp. 168–172. Available at: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5928682 [Accessed December 10, 2012]. |  Gabriele Angeletti | riccardo rinaldi |
 | [**5-3**](PDF/Sisbot, Alami - 2012 - A human-aware manipulation planner.pdf) Sisbot, E.A. & Alami, R., 2012. A human-aware manipulation planner. IEEE Transactions on Robotics, 28(5), pp.1045–1057. | Paolo Russo	 | Ahmad Irjoob |
+| [**4-2**](PDF/Lang et al. - 2009 - Feedback interpretation based on facial expressions in human-robot interaction.pdf) (*moved here due to unavailability of presenter next week*) Lang, C. et al., 2009. Feedback interpretation based on facial expressions in human-robot interaction. In RO-MAN 2009 - The 18th IEEE International Symposium on Robot and Human Interactive Communication. Toyama, Japan: IEEE, pp. 189–194. | Wilson Villa | Harold Agudelo |
 
 ---
 
@@ -108,11 +107,13 @@ Here we are going to look into ways humans and robot can effectively collaborate
 
 This session will focus on the ways humans and robots can communicate with one another, focusing on implicit signalling.
 
+At the end, we shall give Riccardo a chance to present his paper from two weeks ago.
+
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**4-1**](PDF/Fischer et al. - 2013 - The impact of the contingency of robot feedback on HRI.pdf) Fischer, K. et al., 2013. The impact of the contingency of robot feedback on HRI. In Proceedings of the 2013 International Conference on Collaboration Technologies and Systems, CTS 2013. pp. 210–217. | Mirco Colosi | Irvin Aloise |
 | [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) Moon, Aj. et al., 2013. Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts. International Journal of Human-Robot Interaction (IJHR), 2(3), pp.18–40. Available at: http://hri-journal.org/index.php/HRI/article/view/49. | Ahmad irjoob |  Gabriele Angeletti |
-| There is a free slot here as one presentation had to be moved | | |
+| [**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) Lu, D. V, Hershberger, D. & Smart, W.D., 2014. Layered costmaps for context-sensitive navigation. In Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on. pp. 709–715. |  riccardo rinaldi | Daniele Evangelista |
 
 ---
 
