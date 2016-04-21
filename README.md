@@ -77,7 +77,6 @@ This session focuses on mobile robots and how they should be moving among humans
 Presentations will proceed in the following order:
 
 1. [Proxemics and communicating by moving](Slides/LaSapienza%20SIA%20HRI%203.pdf) - Marc Hanheide
-2. ~~[**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) - Riccardo Rinaldi~~ (postponed due to illness of presenter)
 3. [**3-0**](PDF/Dondrup et al. - 2015 - Real-time multisensor people tracking for human-robot spatial interaction.pdf) - Ali Youssef
 4. [Qualitative Human-Robot Spatial Interaction](Slides/LaSapienza%20SIA%20HRI%203.pdf) - Marc Hanheide
 5. [**3-1**](PDF/Lichtenthaeler et al. - 2012 - Increasing perceived value between human and robots - Measuring legibility in human aware navigation.pdf) - Lorenzo Steccanella
@@ -93,7 +92,16 @@ Presentations will proceed in the following order:
 
 #### 22/04/16: Human-Robot Collaboration (and some more mixed things)
 
-Here we are going to look into ways humans and robot can effectively collaborate in tasks, focusing on physical interaction and task coordination. In addition,  we have one paper that leads over to next week.
+Here we are going to look into ways humans and robot can effectively collaborate in tasks, focusing on physical interaction and task coordination. In addition,  we have one paper that leads over to next week already.
+
+Presentations will proceed in the following order:
+
+1. [Introduction to HRC](Slides/LaSapienza%20SIA%20HRI%204.pdf) - Marc Hanheide
+2. [**5-1**](PDF/St. Clair, Mataric - 2011 - Task coordination and assistive opportunity detection via social interaction in collaborative human-robot ta.pdf) - Gabriele Angeletti
+3. [Planning to Collaborate](Slides/LaSapienza%20SIA%20HRI%204.pdf) - Marc Hanheide
+4. [**5-3**](PDF/Sisbot, Alami - 2012 - A human-aware manipulation planner.pdf) - Paolo Russo
+5. [**4-2**](PDF/Lang et al. - 2009 - Feedback interpretation based on facial expressions in human-robot interaction.pdf) - Wilson Villa
+
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
