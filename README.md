@@ -121,7 +121,7 @@ At the end, we shall give Riccardo a chance to present his paper from two weeks 
 |------- | ------------ | ----------- |
 | [**4-1**](PDF/Fischer et al. - 2013 - The impact of the contingency of robot feedback on HRI.pdf) Fischer, K. et al., 2013. The impact of the contingency of robot feedback on HRI. In Proceedings of the 2013 International Conference on Collaboration Technologies and Systems, CTS 2013. pp. 210–217. | Mirco Colosi | Irvin Aloise |
 | [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) Moon, Aj. et al., 2013. Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts. International Journal of Human-Robot Interaction (IJHR), 2(3), pp.18–40. Available at: http://hri-journal.org/index.php/HRI/article/view/49. | Ahmad irjoob |  Gabriele Angeletti |
-| [**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) Lu, D. V, Hershberger, D. & Smart, W.D., 2014. Layered costmaps for context-sensitive navigation. In Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on. pp. 709–715. |  riccardo rinaldi | Daniele Evangelista |
+| [**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) Lu, D. V, Hershberger, D. & Smart, W.D., 2014. Layered costmaps for context-sensitive navigation. In Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on. pp. 709–715. |  riccardo rinaldi | SALVATORE GIGLIO |
 
 ---
 
@@ -131,7 +131,7 @@ Long-term interaction poses a significant challenge for robots, not only in term
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
-| [**6-1**](PDF/Baxter et al. - 2011 - Long-Term Human-Robot Interaction with Young Users.pdf) Baxter, P. et al., 2011. Long-Term Human-Robot Interaction with Young Users. Memory, p.in press. | Sina Baharlou | SALVATORE GIGLIO |
+| [**6-1**](PDF/Baxter et al. - 2011 - Long-Term Human-Robot Interaction with Young Users.pdf) Baxter, P. et al., 2011. Long-Term Human-Robot Interaction with Young Users. Memory, p.in press. | Sina Baharlou | Daniele Evangelista |
 | [**6-2**](PDF/Kanda et al. - 2007 - A two-month field trial in an elementary school for long-term human-robot interaction.pdf) Kanda, T. et al., 2007. A two-month field trial in an elementary school for long-term human-robot interaction. IEEE Transactions on Robotics, 23(5), pp.962–971. | Massimiliano Mancini | Paolo Russo	 |
 | [**6-3**](PDF/Sung, Christensen, Grinter - 2009 - Robots in the wild Understanding long-term use.pdf) Sung, J., Christensen, H.I. & Grinter, R.E., 2009. Robots in the wild: Understanding long-term use. Human-Robot Interaction (HRI), 2009 4th ACM/IEEE International Conference on, pp.45–52. | Irvin Aloise | Mirco Colosi |
 
