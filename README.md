@@ -123,8 +123,7 @@ Presentations will proceed in the following order:
 2. [**3-2**](PDF/Lu, Hershberger, Smart - 2014 - Layered costmaps for context-sensitive navigation.pdf) -  Riccardo Rinaldi 
 3. [Signals, Embodiment and Modalities](Slides/LaSapienza%20SIA%20HRI%205.pdf) - Marc Hanheide
 4. [**4-1**](PDF/Fischer et al. - 2013 - The impact of the contingency of robot feedback on HRI.pdf) -  Mirco Colosi
-5. [Some More on Gesturing and Moving](Slides/LaSapienza%20SIA%20HRI%204.pdf) - Marc Hanheide
-6. [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) - Ahmad Irjoob
+5. [**4-3**](PDF/Moon et al. - 2013 - Design and Impact of Hesitation Gestures during Human-Robot Resource Conflicts.pdf) - Ahmad Irjoob
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
