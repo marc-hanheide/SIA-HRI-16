@@ -141,7 +141,7 @@ Long-term interaction poses a significant challenge for robots, not only in term
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
 | [**6-1**](PDF/Baxter et al. - 2011 - Long-Term Human-Robot Interaction with Young Users.pdf) Baxter, P. et al., 2011. Long-Term Human-Robot Interaction with Young Users. Memory, p.in press. | Sina Baharlou | Daniele Evangelista |
-| [**6-2**](PDF/Kanda et al. - 2007 - A two-month field trial in an elementary school for long-term human-robot interaction.pdf) Kanda, T. et al., 2007. A two-month field trial in an elementary school for long-term human-robot interaction. IEEE Transactions on Robotics, 23(5), pp.962–971. | Massimiliano Mancini | Paolo Russo	 |
+| [**6-2**](PDF/Kanda et al. - 2007 - A two-month field trial in an elementary school for long-term human-robot interaction.pdf) Kanda, T. et al., 2007. A two-month field trial in an elementary school for long-term human-robot interaction. IEEE Transactions on Robotics, 23(5), pp.962–971. | Massimiliano Mancini | Paolo Russo & Ali Youssef |
 | [**6-3**](PDF/Sung, Christensen, Grinter - 2009 - Robots in the wild Understanding long-term use.pdf) Sung, J., Christensen, H.I. & Grinter, R.E., 2009. Robots in the wild: Understanding long-term use. Human-Robot Interaction (HRI), 2009 4th ACM/IEEE International Conference on, pp.45–52. | Irvin Aloise | Mirco Colosi |
 
 
