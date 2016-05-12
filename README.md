@@ -135,7 +135,9 @@ Presentations will proceed in the following order:
 
 #### 13/05/16: Long-term Interaction
 
-Long-term interaction poses a significant challenge for robots, not only in terms of robustness, but also in terms of habituation and adaptation effects. In this session we shall learn more about long-term challenges and applications for robots.
+Long-term interaction poses a significant challenge for robots, not only in terms of robustness, but also in terms of habituation and adaptation effects. In this session we shall learn more about long-term challenges and applications for robots. 
+
+A first [Introduction](Slides/LaSapienza%20SIA%20HRI%206.pdf) will be followed by all the student presentations. They session will close with a wrap-up of all topics covered.
 
 | Paper  | Presented by | Discussed by|
 |------- | ------------ | ----------- |
